@@ -1,0 +1,32 @@
+#logo
+{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	
+	background: url(../img/art.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+header 
+{
+	text-align: center;
+}
+
+#about
+{
+	text-align: center;
+}
+
+#map-canvas 
+{
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+
+#galeria {
+	max-width:100%;
+}
